@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my [about me page](https://ed-commits.github.io).
+
 <!--
 **ed-commits/ed-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
